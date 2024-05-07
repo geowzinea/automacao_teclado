@@ -5,8 +5,8 @@ Este projeto Python automatiza o processo de preenchimento de uma tabela de prod
 Funcionalidades:
 
 ⌨️ Login fictício para acessar a área de preenchimento da tabela.
-Cliques e digitações automatizados para preencher os campos da tabela com dados de produtos.
-Leitura de dados de produtos de um arquivo CSV.
+* Cliques e digitações automatizados para preencher os campos da tabela com dados de produtos.
+*Leitura de dados de produtos de um arquivo CSV.
 ⏳ Tempo de espera entre as ações para simular comportamento humano.
 
 Requisitos:
